@@ -7,5 +7,11 @@ Check Your Understanding:
 
 2) Yes. The length check is a small function which we can test by itself with unit tests. 
 
+**GitHub pages site**
+
+expose.html: https://mazab2003.github.io/Lab5_Starter/expose.html
+explore.html: https://mazab2003.github.io/Lab5_Starter/explore.html
+
+
 
 
