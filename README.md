@@ -10,6 +10,8 @@ Check Your Understanding:
 **GitHub pages site**
 
 expose.html: https://mazab2003.github.io/Lab5_Starter/expose.html
+
+
 explore.html: https://mazab2003.github.io/Lab5_Starter/explore.html
 
 
